@@ -1,8 +1,8 @@
-# robofriends
+# react-robofriends
 
 Udemy Course Project- React
 
-This project is a single page application where the user can search for robot friends among all.Created with HTML5, CSS3, JavaScript, React, tachyons, robohash API.
+This project is a single page application where users can search for robo friends among all. Built with HTML5, CSS3, JavaScript, React, tachyons, robohash API.
 
 https://pouladzadeh.github.io/robofriends/
 
